@@ -6,7 +6,15 @@ The primary goal is to build an end-to-end data warehouse for analyzing the **St
 
 The project uses the "Steam Releases" dataset from Kaggle, containing data on over 67,000 games released between 2006 and 2023.
 
-## 🚀 Tech Stack
+Sources:
+- Database: https://drive.google.com/drive/u/0/folders/1tnLzQccHgf707O6hKj5gElkaJEfBScM3
+- Report: https://drive.google.com/drive/u/0/folders/1-iq0sYtr1zZaubdrlDjnLmSMntBR_9kG
+- Demo videos: https://drive.google.com/drive/u/0/folders/1_tMSv_8IwWvGU68THbfTXsBJxvAcfNvt
+- SSAS source code: https://drive.google.com/drive/u/0/folders/1nd2Tzwxq4rJYdNjbCHkv9ArHrQUaVCzU
+- SSIS source code: https://drive.google.com/drive/u/0/folders/1mW4dGzcWDiB5mo85itDa2OcunocZuXVy
+- Excel pivot: https://drive.google.com/drive/u/0/folders/1lPQyByU11cvHfjMNC6yPTR6M209jAUPH
+- SSRS source code: https://drive.google.com/drive/u/0/folders/1DzIPeNsq1RiwJqYsCYnbhjob1zKaY6kt
+- Data mining source code: https://drive.google.com/drive/u/0/folders/169f8LhccRZrK_gE7mTiLW7O6uYkt2sp5
 
 This project utilizes the full Microsoft Business Intelligence stack:
 * **Database:** SQL Server 2019
